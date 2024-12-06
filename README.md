@@ -1,6 +1,8 @@
 # responsiprakpam
 
-A new Flutter project.
+Responsi Praktikum PAM
+Nasywan Jibran Aryadi
+124220038
 
 ## Getting Started
 
